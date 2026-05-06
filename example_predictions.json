@@ -1,0 +1,14 @@
+[
+  {
+    "predicted": "SQL INJECTION",
+    "ground_truth": "SQL INJECTION",
+    "severity_pred": "CRITICAL",
+    "severity_gt": "CRITICAL"
+  },
+  {
+    "predicted": "RECONNAISSANCE",
+    "ground_truth": "BRUTE FORCE",
+    "severity_pred": "HIGH",
+    "severity_gt": "HIGH"
+  }
+]
